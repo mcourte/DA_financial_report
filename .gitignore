@@ -1,0 +1,14 @@
+# Ignorer le dossier de l'environnement virtuel
+/env/
+
+# Ignorer les notebooks spécifiques
+financial_statistic.ipynb
+
+# Ignorer les checkpoints de Jupyter
+/.ipynb_checkpoints/
+
+# Ignorer les données de bases
+cards_data.csv
+mcc_codes.json
+transactions_data.csv
+users_data.csv
