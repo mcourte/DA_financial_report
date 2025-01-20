@@ -2,7 +2,7 @@
 layout: post
 title: "Analyse avec Jupyter"
 date: 2025-01-20
-categories: jupyter analysis
+categories: jupyter
 ---
 
 
