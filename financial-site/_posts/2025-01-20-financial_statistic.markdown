@@ -4,6 +4,7 @@ title: "Analyse avec Jupyter"
 date: 2025-01-20
 categories: jupyter
 ---
+{% include financial_statistic.html %}
 
 
 
