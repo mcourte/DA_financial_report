@@ -1208,7 +1208,7 @@ Type de carte
 
 
 
-.. image:: _static/images/output_29_0.png
+.. image:: _static/images/output_29_0.jpg
 
 
 On constate que **Mastecard** est la marque de CB la plus répandue.
@@ -1278,7 +1278,7 @@ On constate que **Mastecard** est la marque de CB la plus répandue.
 
 
 
-.. image:: _static/images/output_32_0.png
+.. image:: _static/images/output_32_0.jpg
 
 
 On constate que la majorité des cartes sont des cartes de type **débit**
@@ -1569,7 +1569,7 @@ Nombre de cartes à puces
 
 
 
-.. image:: _static/images/output_48_0.png
+.. image:: _static/images/output_48_0.jpg
 
 
 Credit_score
@@ -1902,7 +1902,7 @@ Credit_score
 
 
 
-.. image:: _static/images/output_53_0.png
+.. image:: _static/images/output_53_0.jpg
 
 
 Clients à la retraite
@@ -2184,7 +2184,7 @@ Clients à la retraite
 
 
 
-.. image:: _static/images/output_56_0.png
+.. image:: _static/images/output_56_0.jpg
 
 
 .. code:: ipython3
@@ -2215,7 +2215,7 @@ Clients à la retraite
 
 
 
-.. image:: _static/images/output_57_0.png
+.. image:: _static/images/output_57_0.jpg
 
 
 .. code:: ipython3
